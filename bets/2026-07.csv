@@ -91,5 +91,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 600,2026-07-31 15:11 UTC,8922552315,15-я минута,Games of the Future 2026: Group Stage,REKONIX vs L1GA TEAM,Тотал убийств,Больше 41.5,1.84,2500,выигрыш,2100
 602,2026-07-31 16:45 UTC,8922722577,10-я минута,Games of the Future 2026: Group Stage,Yakult Brothers vs Zero Tenacity,Тотал убийств,Больше 52.5,1.81,5000,проигрыш,-5000
 603,2026-07-31 16:51 UTC,8922722577,15-я минута,Games of the Future 2026: Group Stage,Yakult Brothers vs Zero Tenacity,Тотал убийств,Больше 53.5,1.84,2500,проигрыш,-2500
-604,2026-07-31 18:08 UTC,8922818221,10-я минута,Games of the Future 2026: Group Stage,Xtreme Gaming vs LGD.Pinghu,Тотал убийств,Больше 51.5,1.83,5000,ожидание,
-605,2026-07-31 18:13 UTC,8922818221,15-я минута,Games of the Future 2026: Group Stage,Xtreme Gaming vs LGD.Pinghu,Тотал убийств,Больше 52.5,1.84,2500,ожидание,
+604,2026-07-31 18:08 UTC,8922818221,10-я минута,Games of the Future 2026: Group Stage,Xtreme Gaming vs LGD.Pinghu,Тотал убийств,Больше 51.5,1.83,5000,выигрыш,4150
+605,2026-07-31 18:13 UTC,8922818221,15-я минута,Games of the Future 2026: Group Stage,Xtreme Gaming vs LGD.Pinghu,Тотал убийств,Больше 52.5,1.84,2500,выигрыш,2100
