@@ -77,4 +77,4 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 573,2026-07-30 19:26 UTC,8921416387,10-я минута,1win Essence II,Team Liquid vs MOUZ,Тотал убийств,Больше 48.5,1.74,8800,выигрыш,6512
 574,2026-07-30 19:31 UTC,8921416387,15-я минута,1win Essence II,Team Liquid vs MOUZ,Тотал убийств,Больше 43.5,1.81,8800,выигрыш,7128
 578,2026-07-31 07:02 UTC,8921979012,10-я минута,Games of the Future 2026: Group Stage,Yellow Submarine vs Execration,Тотал убийств,Больше 50.5,1.85,5000,выигрыш,4250
-579,2026-07-31 09:06 UTC,8922074642,15-я минута,Games of the Future 2026: Group Stage,Amaru Gaming vs Vici Gaming,Тотал убийств,Больше 54.5,1.81,5000,проигрыш,-5000
+579,2026-07-31 09:06 UTC,8922074642,15-я минута,Games of the Future 2026: Group Stage,Amaru Gaming vs Vici Gaming,Тотал убийств,Больше 54.5,1.81,5000,аннулирована (техническая ошибка: матч ошибочно попал в расчёт ставок),0
