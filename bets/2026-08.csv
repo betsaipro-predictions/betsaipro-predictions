@@ -35,5 +35,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 670,2026-08-02 15:06 UTC,8926022375,драфт (до игры),Games of the Future 2026: Playoffs,Yakult Brothers vs REKONIX,Тотал убийств,Больше 46.5,1.68,5000,выигрыш,3400
 673,2026-08-02 15:20 UTC,8926022375,10-я минута,Games of the Future 2026: Playoffs,Yakult Brothers vs REKONIX,Тотал убийств,Больше 43.5,1.75,2500,выигрыш,1875
 675,2026-08-02 16:52 UTC,8926232913,10-я минута,Games of the Future 2026: Playoffs,REKONIX vs Yakult Brother,Тотал убийств,Больше 47.5,1.82,5000,выигрыш,4100
-676,2026-08-02 18:25 UTC,8926381426,10-я минута,Games of the Future 2026: Playoffs,Yakult Brothers vs REKONIX,Тотал убийств,Больше 55.5,1.79,5000,ожидание,
-677,2026-08-02 18:30 UTC,8926381426,15-я минута,Games of the Future 2026: Playoffs,Yakult Brothers vs REKONIX,Тотал убийств,Больше 54.5,1.9,2500,ожидание,
+676,2026-08-02 18:25 UTC,8926381426,10-я минута,Games of the Future 2026: Playoffs,Yakult Brothers vs REKONIX,Тотал убийств,Больше 55.5,1.79,5000,проигрыш,-5000
+677,2026-08-02 18:30 UTC,8926381426,15-я минута,Games of the Future 2026: Playoffs,Yakult Brothers vs REKONIX,Тотал убийств,Больше 54.5,1.9,2500,выигрыш,2250
