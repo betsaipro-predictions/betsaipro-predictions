@@ -1,4 +1,3 @@
-# Импортировано 2026-07-30. Результаты ДО запуска публичного архива (2026-07-30); в реальном времени публично не проверялись.
 n,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,profit
 1,2026-04-10 12:02 UTC,8765407551,драфт (до игры),,Nigma Galaxy vs Team Liquid,Победитель,Team Liquid,1.78,1000,проигрыш,-1000
 2,2026-04-10 12:08 UTC,8765407551,10-я минута,,Nigma Galaxy vs Team Liquid,Победитель,Nigma Galaxy,1.85,1000,выигрыш,850
