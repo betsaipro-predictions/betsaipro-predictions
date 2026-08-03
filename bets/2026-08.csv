@@ -52,6 +52,6 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 697,2026-08-03 12:36 UTC,8927374543,15-я минута,1win Essence II,OG vs GamerLegion,Тотал убийств,Больше 52.5,1.84,2500,проигрыш,-2500
 702,2026-08-03 15:04 UTC,8927660975,драфт (до игры),Games of the Future 2026: Playoffs,Yakult Brothers vs Vici Gaming,Тотал убийств,Больше 41.5,1.67,5000,выигрыш,3350
 703,2026-08-03 15:16 UTC,8927660975,10-я минута,Games of the Future 2026: Playoffs,Yakult Brothers vs Vici Gaming,Тотал убийств,Больше 43.5,1.65,2500,проигрыш,-2500
-705,2026-08-03 16:28 UTC,8927760296,10-я минута,Games of the Future 2026: Playoffs,Yakult Brothers vs Vici Gaming,Тотал убийств,Больше 37.5,1.64,5000,ожидание,
-706,2026-08-03 16:33 UTC,8927760296,15-я минута,Games of the Future 2026: Playoffs,Yakult Brothers vs Vici Gaming,Тотал убийств,Меньше 43.5,1.82,2500,ожидание,
+705,2026-08-03 16:28 UTC,8927760296,10-я минута,Games of the Future 2026: Playoffs,Yakult Brothers vs Vici Gaming,Тотал убийств,Больше 37.5,1.64,5000,выигрыш,3200
+706,2026-08-03 16:33 UTC,8927760296,15-я минута,Games of the Future 2026: Playoffs,Yakult Brothers vs Vici Gaming,Тотал убийств,Меньше 43.5,1.82,2500,проигрыш,-2500
 707,2026-08-03 16:44 UTC,8927786392,15-я минута,1win Essence II,Team Falcons vs BoomBoy,Тотал убийств,Больше 51.5,1.81,5000,ожидание,
