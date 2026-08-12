@@ -102,5 +102,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 801,2026-08-11 15:28 UTC,8940593470,15-я минута,Asgard Championship Season 1,Level UP esports vs Team Spirit Academy,Тотал убийств,Больше 62.5,1.82,2500,выигрыш,2050
 805,2026-08-11 17:05 UTC,8940756672,15-я минута,EPL Masters I,Zero Tenacity vs Yellow Submarine,Тотал убийств,Больше 52.5,1.93,5000,проигрыш,-5000
 806,2026-08-11 17:44 UTC,8940814613,15-я минута,Asgard Championship Season 1,Level UP esports vs Team Spirit Academy,Тотал убийств,Больше 57.5,1.81,5000,выигрыш,4050
-812,2026-08-12 15:01 UTC,8942152024,10-я минута,EPL Masters I,Level UP esports vs Natus Vincere,Тотал убийств,Больше 49.5,1.83,5000,ожидание,
-813,2026-08-12 15:06 UTC,8942152024,15-я минута,EPL Masters I,Level UP esports vs Natus Vincere,Тотал убийств,Больше 50.5,2.08,2500,ожидание,
+812,2026-08-12 15:01 UTC,8942152024,10-я минута,EPL Masters I,Level UP esports vs Natus Vincere,Тотал убийств,Больше 49.5,1.83,5000,выигрыш,4150
+813,2026-08-12 15:06 UTC,8942152024,15-я минута,EPL Masters I,Level UP esports vs Natus Vincere,Тотал убийств,Больше 50.5,2.08,2500,проигрыш,-2500
