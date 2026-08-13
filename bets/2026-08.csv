@@ -106,6 +106,7 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 813,2026-08-12 15:06 UTC,8942152024,15-я минута,EPL Masters I,Level UP esports vs Natus Vincere,Тотал убийств,Больше 50.5,2.08,2500,проигрыш,-2500
 816,2026-08-12 16:04 UTC,8942262723,10-я минута,EPL Masters I,Natus Vincere vs Level UP esport,Тотал убийств,Больше 52.5,1.89,5000,проигрыш,-5000
 817,2026-08-12 16:09 UTC,8942262723,15-я минута,EPL Masters I,Natus Vincere vs Level UP esport,Тотал убийств,Больше 44.5,1.73,2500,проигрыш,-2500
-821,2026-08-13 03:46 UTC,8943010675,драфт (до игры),The International 2026: Group Stage,Team Resilience vs TEAM VISION,Тотал убийств,Больше 45.5,1.71,5000,ожидание,
-824,2026-08-13 03:59 UTC,8943010675,10-я минута,The International 2026: Group Stage,Team Resilience vs TEAM VISION,Тотал убийств,Больше 43.5,1.84,2500,ожидание,
-827,2026-08-13 04:04 UTC,8943013334,10-я минута,The International 2026: Group Stage,BoomBoys vs OG,Тотал убийств,Больше 39.5,1.82,5000,ожидание,
+821,2026-08-13 03:46 UTC,8943010675,драфт (до игры),The International 2026: Group Stage,Team Resilience vs TEAM VISION,Тотал убийств,Больше 45.5,1.71,5000,выигрыш,3550
+824,2026-08-13 03:59 UTC,8943010675,10-я минута,The International 2026: Group Stage,Team Resilience vs TEAM VISION,Тотал убийств,Больше 43.5,1.84,2500,выигрыш,2100
+827,2026-08-13 04:04 UTC,8943013334,10-я минута,The International 2026: Group Stage,BoomBoys vs OG,Тотал убийств,Больше 39.5,1.82,5000,проигрыш,-5000
+829,2026-08-13 05:05 UTC,8943053016,драфт (до игры),The International 2026: Group Stage,TEAM VISION vs Team Resilience,Тотал убийств,Больше 42.5,1.74,5000,ожидание,
