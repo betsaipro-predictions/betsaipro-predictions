@@ -121,5 +121,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 853,2026-08-14 02:37 UTC,8944476051,15-я минута,The International 2026: Group Stage,GamerLegion vs Xtreme Gaming,Тотал убийств,Меньше 38.5,1.88,5000,выигрыш,4400
 860,2026-08-14 05:02 UTC,8944565060,10-я минута,The International 2026: Group Stage,BoomBoys vs TEAM VISION,Тотал убийств,Больше 45.5,1.87,5000,проигрыш,-5000
 862,2026-08-14 06:10 UTC,8944612322,10-я минута,The International 2026: Group Stage,TEAM VISION vs BoomBoy,Тотал убийств,Больше 41.5,1.77,5000,выигрыш,3850
-865,2026-08-14 10:11 UTC,8944814087,драфт (до игры),The International 2026: Group Stage,Xtreme Gaming vs HULIGANI,Тотал убийств,Больше 41.5,1.69,5000,ожидание,
-866,2026-08-14 10:23 UTC,8944814087,10-я минута,The International 2026: Group Stage,Xtreme Gaming vs HULIGANI,Тотал убийств,Больше 38.5,1.8,2500,ожидание,
+865,2026-08-14 10:11 UTC,8944814087,драфт (до игры),The International 2026: Group Stage,Xtreme Gaming vs HULIGANI,Тотал убийств,Больше 41.5,1.69,5000,проигрыш,-5000
+866,2026-08-14 10:23 UTC,8944814087,10-я минута,The International 2026: Group Stage,Xtreme Gaming vs HULIGANI,Тотал убийств,Больше 38.5,1.8,2500,выигрыш,2000
