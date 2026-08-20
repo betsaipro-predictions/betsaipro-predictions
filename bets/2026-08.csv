@@ -148,4 +148,4 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 920,2026-08-16 09:41 UTC,8948420293,10-я минута,The International 2026: Group Stage,Team Yandex vs LGD Gaming,Тотал убийств,Больше 46.5,1.81,5000,выигрыш,4050
 921,2026-08-20 03:08 UTC,8955197224,15-я минута,The International 2026: Playoffs,Team Spirit vs Iron Wing,Тотал убийств,Больше 62.5,1.86,5000,выигрыш,4300
 922,2026-08-20 07:57 UTC,8955383956,драфт (до игры),The International 2026: Playoffs,TEAM VISION vs BoomBoy,Тотал убийств,Больше 51.5,1.8,5000,проигрыш,-5000
-924,2026-08-20 12:30 UTC,8955653541,15-я минута,The International 2026: Playoffs,Team Liquid vs Team Yandex,Тотал убийств,Меньше 47.5,1.81,5000,ожидание,
+924,2026-08-20 12:30 UTC,8955653541,15-я минута,The International 2026: Playoffs,Team Liquid vs Team Yandex,Тотал убийств,Меньше 47.5,1.81,5000,проигрыш,-5000
