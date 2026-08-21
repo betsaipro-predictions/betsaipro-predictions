@@ -155,4 +155,4 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 933,2026-08-21 03:52 UTC,8956821666,15-я минута,The International 2026: Playoffs,BoomBoys vs Iron Wing,Тотал убийств,Меньше 44.5,1.84,2500,выигрыш,2100
 934,2026-08-21 05:09 UTC,8956877335,10-я минута,The International 2026: Playoffs,BoomBoys vs Iron Wing,Тотал убийств,Больше 46.5,1.87,5000,выигрыш,4350
 935,2026-08-21 05:13 UTC,8956877335,15-я минута,The International 2026: Playoffs,BoomBoys vs Iron Wing,Тотал убийств,Больше 41.5,1.8,2500,выигрыш,2000
-936,2026-08-21 06:48 UTC,8956943534,15-я минута,The International 2026: Playoffs,Team Liquid vs Team Falcon,Тотал убийств,Меньше 53.5,1.87,5000,ожидание,
+936,2026-08-21 06:48 UTC,8956943534,15-я минута,The International 2026: Playoffs,Team Liquid vs Team Falcon,Тотал убийств,Меньше 53.5,1.87,5000,проигрыш,-5000
