@@ -164,3 +164,4 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 959,2026-08-22 12:00 UTC,8959067169,10-я минута,The International 2026: Playoffs,TEAM VISION vs Team Yandex,Тотал убийств,Больше 45.5,1.87,5000,выигрыш,4350
 960,2026-08-22 13:42 UTC,8959222564,15-я минута,The International 2026: Playoffs,BoomBoys vs Team Spirit,Тотал убийств,Больше 40.5,1.81,5000,проигрыш,-5000
 963,2026-08-23 02:38 UTC,8960365292,10-я минута,The International 2026: Playoffs,Team Yandex vs Team Spirit,Тотал убийств,Больше 45.5,1.81,5000,проигрыш,-5000
+965,2026-08-23 03:34 UTC,8960411225,драфт (до игры),The International 2026: Playoffs,Team Spirit vs Team Yandex,Тотал убийств,Больше 46.5,1.77,5000,ожидание,
