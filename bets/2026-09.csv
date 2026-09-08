@@ -10,5 +10,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1034,2026-09-08 09:35 UTC,8988557865,15-я минута,EPL Masters II,_PowerRangers vs HULIGANI,Тотал убийств,Меньше 41.5,1.84,2500,проигрыш,-2500
 1036,2026-09-08 12:06 UTC,8988695634,15-я минута,EPL Masters II,_PowerRangers vs HULIGANI,Тотал убийств,Меньше 36.5,1.92,5000,выигрыш,4600
 1040,2026-09-08 17:06 UTC,8989163978,15-я минута,EPL Masters II,Klim Sani4 vs Natus Vincere,Тотал убийств,Меньше 46.5,1.74,5000,выигрыш,3700
-1046,2026-09-08 19:45 UTC,8989423966,10-я минута,EPL Masters II,Klim Sani4 vs Natus Vincere,Тотал убийств,Больше 42.5,1.78,5000,ожидание,
-1047,2026-09-08 19:50 UTC,8989423966,15-я минута,EPL Masters II,Klim Sani4 vs Natus Vincere,Тотал убийств,Меньше 43.5,1.83,2500,ожидание,
+1046,2026-09-08 19:45 UTC,8989423966,10-я минута,EPL Masters II,Klim Sani4 vs Natus Vincere,Тотал убийств,Больше 42.5,1.78,5000,проигрыш,-5000
+1047,2026-09-08 19:50 UTC,8989423966,15-я минута,EPL Masters II,Klim Sani4 vs Natus Vincere,Тотал убийств,Меньше 43.5,1.83,2500,выигрыш,2075
