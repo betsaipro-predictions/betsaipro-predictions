@@ -15,3 +15,4 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1052,2026-09-08 22:18 UTC,8989587398,10-я минута,EPL Masters II,GamerLegion vs MOUZ,Тотал убийств,Больше 45.5,1.84,5000,выигрыш,4200
 1055,2026-09-09 13:32 UTC,8990285196,15-я минута,EPL Masters II,HULIGANI vs MOUZ,Тотал убийств,Меньше 42.5,1.8,5000,выигрыш,4000
 1056,2026-09-09 14:18 UTC,8990366825,10-я минута,EPL Masters II,MOUZ vs HULIGANI,Тотал убийств,Больше 40.5,1.85,5000,ожидание,
+1057,2026-09-09 14:23 UTC,8990366825,15-я минута,EPL Masters II,MOUZ vs HULIGANI,Тотал убийств,Больше 43.5,1.8,2500,ожидание,
