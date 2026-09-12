@@ -19,3 +19,4 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1058,2026-09-09 22:35 UTC,8991020791,10-я минута,EPL Masters II,MOUZ vs Klim Sani4,Тотал убийств,Больше 53.5,1.79,5000,выигрыш,3950
 1063,2026-09-10 18:51 UTC,8992269821,10-я минута,EPL Masters II,Natus Vincere vs Klim Sani4,Тотал убийств,Больше 49.5,1.75,5000,проигрыш,-5000
 1065,2026-09-12 08:32 UTC,8994691423,10-я минута,RES Unchained 6: BLAST SLAM IX Europe Closed Qualifier,Natus Vincere vs Zero Tenacity,Тотал убийств,Больше 43.5,1.81,5000,ожидание,
+1066,2026-09-12 08:37 UTC,8994691423,15-я минута,RES Unchained 6: BLAST SLAM IX Europe Closed Qualifier,Natus Vincere vs Zero Tenacity,Тотал убийств,Больше 41.5,1.8,2500,ожидание,
