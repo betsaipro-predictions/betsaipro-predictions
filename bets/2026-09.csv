@@ -29,5 +29,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1080,2026-09-13 08:03 UTC,8996565323,15-я минута,RES Unchained 6: BLAST SLAM IX Southeast Asia Closed Qualifier,Execration vs Team Bored,Тотал убийств,Меньше 52.5,1.84,5000,выигрыш,4200
 1082,2026-09-13 08:28 UTC,8996581680,10-я минута,RES Unchained 6: BLAST SLAM IX Europe Closed Qualifier,Pipsqueak + 4 vs Natus Vincere,Тотал убийств,Больше 48.5,1.84,5000,проигрыш,-5000
 1083,2026-09-13 08:33 UTC,8996581680,15-я минута,RES Unchained 6: BLAST SLAM IX Europe Closed Qualifier,Pipsqueak + 4 vs Natus Vincere,Тотал убийств,Больше 44.5,1.79,2500,проигрыш,-2500
-1089,2026-09-13 09:28 UTC,8996676912,10-я минута,RES Unchained 6: BLAST SLAM IX Europe Closed Qualifier,Natus Vincere vs Pipsqueak + 4,Тотал убийств,Больше 46.5,1.85,5000,ожидание,
-1090,2026-09-13 09:33 UTC,8996676912,15-я минута,RES Unchained 6: BLAST SLAM IX Europe Closed Qualifier,Natus Vincere vs Pipsqueak + 4,Тотал убийств,Больше 48.5,1.84,2500,ожидание,
+1089,2026-09-13 09:28 UTC,8996676912,10-я минута,RES Unchained 6: BLAST SLAM IX Europe Closed Qualifier,Natus Vincere vs Pipsqueak + 4,Тотал убийств,Больше 46.5,1.85,5000,выигрыш,4250
+1090,2026-09-13 09:33 UTC,8996676912,15-я минута,RES Unchained 6: BLAST SLAM IX Europe Closed Qualifier,Natus Vincere vs Pipsqueak + 4,Тотал убийств,Больше 48.5,1.84,2500,выигрыш,2100
