@@ -36,3 +36,4 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1096,2026-09-14 11:45 UTC,8998498850,15-я минута,European Pro League Season 40,Zero Tenacity vs Team Lynx,Тотал убийств,Больше 54.5,1.86,5000,выигрыш,4300
 1097,2026-09-15 16:07 UTC,9000410514,15-я минута,European Pro League Season 40,Zero Tenacity vs Nemiga Gaming,Тотал убийств,Меньше 47.5,1.84,5000,"аннулирована (техническая ошибка: перезапуск карты, заменена match_id=9000343574)",0
 1098,2026-09-15 16:08 UTC,9000343574,15-я минута,European Pro League Season 40,Zero Tenacity vs Nemiga Gaming,Тотал убийств,Меньше 47.5,1.83,5000,выигрыш,4150
+1102,2026-09-15 18:39 UTC,9000613047,15-я минута,European Pro League Season 40,Nemiga Gaming vs Zero Tenacity,Тотал убийств,Больше 42.5,1.93,5000,ожидание,
