@@ -39,5 +39,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1102,2026-09-15 18:39 UTC,9000613047,15-я минута,European Pro League Season 40,Nemiga Gaming vs Zero Tenacity,Тотал убийств,Больше 42.5,1.93,5000,выигрыш,4650
 1105,2026-09-15 19:47 UTC,9000737299,10-я минута,European Pro League Season 40,Yellow Submarine vs Uralan,Тотал убийств,Больше 40.5,1.8,5000,выигрыш,4000
 1106,2026-09-15 19:52 UTC,9000737299,15-я минута,European Pro League Season 40,Yellow Submarine vs Uralan,Тотал убийств,Больше 40.5,1.71,2500,выигрыш,1775
-1109,2026-09-16 21:30 UTC,9002332227,драфт (до игры),European Pro League Season 40,Yellow Submarine vs Two Move,Тотал убийств,Больше 50.5,1.79,5000,ожидание,
-1110,2026-09-16 21:42 UTC,9002332227,10-я минута,European Pro League Season 40,Yellow Submarine vs Two Move,Тотал убийств,Больше 50.5,1.79,2500,ожидание,
+1109,2026-09-16 21:30 UTC,9002332227,драфт (до игры),European Pro League Season 40,Yellow Submarine vs Two Move,Тотал убийств,Больше 50.5,1.79,5000,выигрыш,3950
+1110,2026-09-16 21:42 UTC,9002332227,10-я минута,European Pro League Season 40,Yellow Submarine vs Two Move,Тотал убийств,Больше 50.5,1.79,2500,выигрыш,1975
