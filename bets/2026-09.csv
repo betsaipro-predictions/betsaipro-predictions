@@ -46,3 +46,4 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1117,2026-09-17 18:17 UTC,9003520141,10-я минута,European Pro League Season 40,Nemiga Gaming vs Team Lynx,Тотал убийств,Больше 45.5,1.85,5000,выигрыш,4250
 1119,2026-09-19 07:15 UTC,9005874165,драфт (до игры),PGL Wallachia Season 9: Group Stage,Team Nemesis vs 1w,Тотал убийств,Больше 45.5,1.74,5000,выигрыш,3700
 1120,2026-09-19 07:48 UTC,9005874165,10-я минута,PGL Wallachia Season 9: Group Stage,Team Nemesis vs 1w,Тотал убийств,Больше 46.5,1.89,2500,выигрыш,2225
+1126,2026-09-19 11:55 UTC,9006189153,15-я минута,PGL Wallachia Season 9: Group Stage,GamerLegion vs Team Cobra,Тотал убийств,Меньше 48.5,1.92,5000,ожидание,
