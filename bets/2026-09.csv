@@ -59,3 +59,4 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1155,2026-09-20 13:49 UTC,9008125103,15-я минута,PGL Wallachia Season 9: Group Stage,Yakult Brothers vs Pipsqueak + 4,Тотал убийств,Меньше 49.5,1.87,5000,проигрыш,-5000
 1159,2026-09-20 16:17 UTC,9008413867,10-я минута,PGL Wallachia Season 9: Group Stage,Team Nemesis vs Team Yandex,Тотал убийств,Больше 39.5,1.81,5000,выигрыш,4050
 1162,2026-09-20 17:11 UTC,9008510292,10-я минута,PGL Wallachia Season 9: Group Stage,Team Nemesis vs Team Yandex,Тотал убийств,Больше 46.5,1.89,5000,ожидание,
+1163,2026-09-20 17:16 UTC,9008510292,15-я минута,PGL Wallachia Season 9: Group Stage,Team Nemesis vs Team Yandex,Тотал убийств,Больше 39.5,1.87,2500,ожидание,
