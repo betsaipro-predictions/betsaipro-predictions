@@ -54,3 +54,4 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1137,2026-09-19 20:11 UTC,9007028187,15-я минута,PGL Wallachia Season 9: Group Stage,Team Yandex vs MOUZ,Тотал убийств,Больше 40.5,2.06,2500,выигрыш,2650
 1142,2026-09-20 07:33 UTC,9007618767,15-я минута,PGL Wallachia Season 9: Group Stage,Team Cobra vs PlayTime,Тотал убийств,Меньше 49.5,1.83,5000,проигрыш,-5000
 1143,2026-09-20 07:41 UTC,9007618656,10-я минута,PGL Wallachia Season 9: Group Stage,Conventus Stellarum vs Xtreme Gaming,Тотал убийств,Больше 44.5,1.71,5000,проигрыш,-5000
+1149,2026-09-20 10:06 UTC,9007784381,15-я минута,PGL Wallachia Season 9: Group Stage,Xtreme Gaming vs Conventus Stellarum,Тотал убийств,Больше 52.5,1.84,5000,ожидание,
