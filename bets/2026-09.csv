@@ -94,6 +94,7 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1232,2026-09-27 13:19 UTC,9018736585,10-я минута,PGL Wallachia Season 9: Playoffs,Natus Vincere vs Team Yandex,Тотал убийств,Больше 35.5,1.98,5000,выигрыш,4900
 1233,2026-09-27 13:25 UTC,9018736585,15-я минута,PGL Wallachia Season 9: Playoffs,Natus Vincere vs Team Yandex,Тотал убийств,Больше 35.5,2.34,2500,выигрыш,3350
 1240,2026-09-27 15:32 UTC,9018969340,15-я минута,PGL Wallachia Season 9: Playoffs,Team Yandex vs Natus Vincere,Тотал убийств,Меньше 47.5,1.87,5000,выигрыш,4350
-1244,2026-09-29 10:24 UTC,9021397355,15-я минута,BLAST SLAM VIII: Group Stage,Team Nemesis vs Team Spirit,Тотал убийств,Больше 49.5,1.9,5000,ожидание,
-1245,2026-09-29 10:31 UTC,9021397264,10-я минута,BLAST SLAM VIII: Group Stage,PARIVISION vs Level UP esport,Тотал убийств,Больше 42.5,1.84,5000,ожидание,
-1246,2026-09-29 10:36 UTC,9021397264,15-я минута,BLAST SLAM VIII: Group Stage,PARIVISION vs Level UP esport,Тотал убийств,Больше 42.5,1.84,2500,ожидание,
+1244,2026-09-29 10:24 UTC,9021397355,15-я минута,BLAST SLAM VIII: Group Stage,Team Nemesis vs Team Spirit,Тотал убийств,Больше 49.5,1.9,5000,выигрыш,4500
+1245,2026-09-29 10:31 UTC,9021397264,10-я минута,BLAST SLAM VIII: Group Stage,PARIVISION vs Level UP esport,Тотал убийств,Больше 42.5,1.84,5000,выигрыш,4200
+1246,2026-09-29 10:36 UTC,9021397264,15-я минута,BLAST SLAM VIII: Group Stage,PARIVISION vs Level UP esport,Тотал убийств,Больше 42.5,1.84,2500,выигрыш,2100
+1249,2026-09-29 11:35 UTC,9021470896,10-я минута,BLAST SLAM VIII: Group Stage,Team Nemesis vs Team Spirit,Тотал убийств,Больше 53.5,1.77,5000,ожидание,
