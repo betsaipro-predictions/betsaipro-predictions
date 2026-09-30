@@ -108,3 +108,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1279,2026-09-30 11:34 UTC,9022828432,15-я минута,BLAST SLAM VIII: Group Stage,MOUZ vs Team Yandex,Тотал убийств,Больше 49.5,1.83,3500,выигрыш,2905
 1281,2026-09-30 12:40 UTC,9022908356,10-я минута,BLAST SLAM VIII: Group Stage,OG vs BETBOOM TEAM,Тотал убийств,Больше 35.5,1.84,3500,выигрыш,2940
 1282,2026-09-30 12:45 UTC,9022908356,15-я минута,BLAST SLAM VIII: Group Stage,OG vs BETBOOM TEAM,Тотал убийств,Больше 39.5,1.8,3500,выигрыш,2800
+1286,2026-09-30 15:06 UTC,9023089203,15-я минута,BLAST SLAM VIII: Group Stage,Team Nemesis vs Natus Vincere,Тотал убийств,Больше 53.5,2.13,3500,ожидание,
+1287,2026-09-30 15:06 UTC,9023089203,15-я минута,BLAST SLAM VIII: Group Stage,Team Nemesis vs Natus Vincere,Тотал убийств,Больше 51.5,1.88,5000,ожидание,
