@@ -111,5 +111,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1286,2026-09-30 15:06 UTC,9023089203,15-я минута,BLAST SLAM VIII: Group Stage,Team Nemesis vs Natus Vincere,Тотал убийств,Больше 53.5,2.13,3500,"аннулирована (техническая ошибка: часы Steam отстали от Hawk, милстоун 15min пересчитан на 31-й минуте по кэфам 17:49 (решение владельца 30.09))",0
 1287,2026-09-30 15:06 UTC,9023089203,15-я минута,BLAST SLAM VIII: Group Stage,Team Nemesis vs Natus Vincere,Тотал убийств,Больше 51.5,1.88,5000,"аннулирована (техническая ошибка: часы Steam отстали от Hawk, милстоун 15min пересчитан на 31-й минуте по кэфам 17:49 (решение владельца 30.09))",0
 1290,2026-09-30 15:58 UTC,9023195630,15-я минута,BLAST SLAM VIII: Group Stage,Team Nemesis vs Natus Vincere,Тотал убийств,Меньше 43.5,1.89,3500,выигрыш,3115
-1294,2026-09-30 17:21 UTC,9023339084,10-я минута,BLAST SLAM VIII: Group Stage,Xtreme Gaming vs Level UP esport,Тотал убийств,Больше 38.5,1.91,3500,ожидание,
-1295,2026-09-30 17:26 UTC,9023339084,15-я минута,BLAST SLAM VIII: Group Stage,Xtreme Gaming vs Level UP esport,Тотал убийств,Больше 36.5,1.84,3500,ожидание,
+1294,2026-09-30 17:21 UTC,9023339084,10-я минута,BLAST SLAM VIII: Group Stage,Xtreme Gaming vs Level UP esport,Тотал убийств,Больше 38.5,1.91,3500,выигрыш,3185
+1295,2026-09-30 17:26 UTC,9023339084,15-я минута,BLAST SLAM VIII: Group Stage,Xtreme Gaming vs Level UP esport,Тотал убийств,Больше 36.5,1.84,3500,выигрыш,2940
