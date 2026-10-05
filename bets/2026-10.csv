@@ -10,5 +10,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1325,2026-10-03 16:05 UTC,9027674421,10-я минута,BLAST SLAM VIII: Group Stage,LGD Gaming vs GamerLegion,Тотал убийств,Больше 46.5,1.83,3500,проигрыш,-3500
 1327,2026-10-03 17:54 UTC,9027848100,15-я минута,BLAST SLAM VIII: Group Stage,OG vs 1win,Тотал убийств,Больше 42.5,1.9,3500,проигрыш,-3500
 1330,2026-10-03 19:24 UTC,9028005974,10-я минута,BLAST SLAM VIII: Group Stage,Team Yandex vs Team Spirit,Тотал убийств,Больше 57.5,1.89,3500,выигрыш,3115
-1332,2026-10-05 18:22 UTC,9031046793,10-я минута,PARI Universe: Closed Qualifier,MOUZ vs Nemiga Gaming,Тотал убийств,Больше 40.5,1.99,3500,ожидание,
-1333,2026-10-05 18:27 UTC,9031046793,15-я минута,PARI Universe: Closed Qualifier,MOUZ vs Nemiga Gaming,Тотал убийств,Больше 37.5,1.73,3500,ожидание,
+1332,2026-10-05 18:22 UTC,9031046793,10-я минута,PARI Universe: Closed Qualifier,MOUZ vs Nemiga Gaming,Тотал убийств,Больше 40.5,1.99,3500,проигрыш,-3500
+1333,2026-10-05 18:27 UTC,9031046793,15-я минута,PARI Universe: Closed Qualifier,MOUZ vs Nemiga Gaming,Тотал убийств,Больше 37.5,1.73,3500,проигрыш,-3500
