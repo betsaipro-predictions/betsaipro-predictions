@@ -17,3 +17,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1338,2026-10-05 20:31 UTC,9031224937,10-я минута,PARI Universe: Closed Qualifier,Nemiga Gaming vs MOUZ,Тотал убийств,Больше 42.5,1.78,3500,выигрыш,2730
 1342,2026-10-06 10:01 UTC,9031755269,15-я минута,PARI Universe: Closed Qualifier,HULIGANI vs CyberHero,Тотал убийств,Меньше 49.5,1.8,3500,проигрыш,-3500
 1346,2026-10-06 11:46 UTC,9031849890,15-я минута,PARI Universe: Closed Qualifier,CyberHero vs HULIGANI,Тотал убийств,Меньше 40.5,1.78,3500,проигрыш,-3500
+1359,2026-10-07 12:01 UTC,9033302098,15-я минута,PARI Universe: Closed Qualifier,Yellow Submarine vs Blasterbl,Тотал убийств,Больше 55.5,1.84,3500,ожидание,
+1360,2026-10-07 12:01 UTC,9033302098,15-я минута,PARI Universe: Closed Qualifier,Yellow Submarine vs Blasterbl,Тотал убийств,Больше 57.5,2.07,5000,ожидание,
