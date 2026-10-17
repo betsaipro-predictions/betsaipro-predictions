@@ -57,5 +57,6 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1558,2026-10-17 05:34 UTC,9048581209,15-я минута,BLAST SLAM IX China Closed Qualifier,Xtreme Gaming vs Yakult Brother,Тотал убийств,Больше 36.5,1.77,3500,проигрыш,-3500
 1560,2026-10-17 06:10 UTC,9048619481,10-я минута,BLAST SLAM IX China Closed Qualifier,Xtreme Gaming vs Yakult Brother,Тотал убийств,Больше 37.5,1.81,3500,выигрыш,2835
 1561,2026-10-17 06:16 UTC,9048619481,15-я минута,BLAST SLAM IX China Closed Qualifier,Xtreme Gaming vs Yakult Brother,Тотал убийств,Больше 37.5,1.99,3500,выигрыш,3465
-1563,2026-10-17 07:43 UTC,9048685760,10-я минута,BLAST SLAM IX China Closed Qualifier,Team Tidebound vs Team Resilience,Тотал убийств,Больше 46.5,1.84,3500,ожидание,
-1564,2026-10-17 07:47 UTC,9048685760,15-я минута,BLAST SLAM IX China Closed Qualifier,Team Tidebound vs Team Resilience,Тотал убийств,Больше 44.5,1.9,3500,ожидание,
+1563,2026-10-17 07:43 UTC,9048685760,10-я минута,BLAST SLAM IX China Closed Qualifier,Team Tidebound vs Team Resilience,Тотал убийств,Больше 46.5,1.84,3500,проигрыш,-3500
+1564,2026-10-17 07:47 UTC,9048685760,15-я минута,BLAST SLAM IX China Closed Qualifier,Team Tidebound vs Team Resilience,Тотал убийств,Больше 44.5,1.9,3500,проигрыш,-3500
+1567,2026-10-17 12:01 UTC,9049014116,10-я минута,BLAST SLAM IX China Closed Qualifier,Xtreme Gaming vs Team Resilience,Тотал убийств,Больше 39.5,1.77,3500,ожидание,
