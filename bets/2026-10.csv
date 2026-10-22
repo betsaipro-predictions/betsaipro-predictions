@@ -76,5 +76,6 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1614,2026-10-20 12:28 UTC,9053699308,10-я минута,EPL Masters III,Team Lynx vs _PowerRanger,Тотал убийств,Больше 50.5,1.81,3500,проигрыш,-3500
 1619,2026-10-20 13:33 UTC,9053787295,15-я минута,EPL Masters III,Team Lynx vs Poor Ranger,Тотал убийств,Больше 54.5,1.9,3500,проигрыш,-3500
 1620,2026-10-20 13:33 UTC,9053787295,15-я минута,EPL Masters III,Team Lynx vs Poor Ranger,Тотал убийств,Больше 55.5,2,5000,проигрыш,-5000
-1639,2026-10-22 09:48 UTC,9056271057,10-я минута,PARI Universe: Group Stage,GamerLegion vs Team Yandex,Тотал убийств,Больше 51.5,1.79,3500,ожидание,
-1640,2026-10-22 09:53 UTC,9056271057,15-я минута,PARI Universe: Group Stage,GamerLegion vs Team Yandex,Тотал убийств,Больше 53.5,1.74,5000,ожидание,
+1639,2026-10-22 09:48 UTC,9056271057,10-я минута,PARI Universe: Group Stage,GamerLegion vs Team Yandex,Тотал убийств,Больше 51.5,1.79,3500,проигрыш,-3500
+1640,2026-10-22 09:53 UTC,9056271057,15-я минута,PARI Universe: Group Stage,GamerLegion vs Team Yandex,Тотал убийств,Больше 53.5,1.74,5000,проигрыш,-5000
+1650,2026-10-22 12:36 UTC,9056426458,15-я минута,EPL Masters III,Team Lynx vs HULIGANI,Тотал убийств,Больше 48.5,1.81,3500,ожидание,
