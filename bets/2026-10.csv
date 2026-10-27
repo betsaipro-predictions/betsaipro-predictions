@@ -101,3 +101,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1797,2026-10-26 15:56 UTC,9063026856,15-я минута,PARI Universe: Group Stage,Team Liquid vs Team Yandex,Тотал убийств,Меньше 49.5,1.91,3500,выигрыш,3185
 1801,2026-10-26 17:07 UTC,9063131170,15-я минута,PARI Universe: Group Stage,PARIVISION vs Team Spirit,Тотал убийств,Меньше 42.5,1.89,3500,выигрыш,3115
 1818,2026-10-26 21:30 UTC,9063495955,15-я минута,PARI Universe: Group Stage,BETBOOM TEAM vs LEGION,Тотал убийств,Меньше 49.5,1.91,3500,выигрыш,3185
+1822,2026-10-27 16:33 UTC,9064490683,15-я минута,PARI Universe: Tiebreaker,LEGION vs BETBOOM TEAM,Тотал убийств,Больше 54.5,1.8,3500,ожидание,
+1824,2026-10-27 16:33 UTC,9064490683,15-я минута,PARI Universe: Tiebreaker,LEGION vs BETBOOM TEAM,Тотал убийств,Больше 56.5,2,5000,ожидание,
