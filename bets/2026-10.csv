@@ -112,4 +112,5 @@ bet_no,date_utc,match_id,minute,league,teams,market,selection,odds,stake,result,
 1858,2026-10-29 09:32 UTC,9066750920,15-я минута,PARI Universe: Playoffs,Astra Invicta vs Team Liquid,Тотал убийств,Больше 35.5,1.83,3500,выигрыш,2905
 1867,2026-10-29 12:34 UTC,9066926114,15-я минута,PARI Universe: Playoffs,LEGION vs Team Spirit,Тотал убийств,Больше 53.5,1.86,5000,выигрыш,4300
 1875,2026-10-29 17:25 UTC,9067346550,15-я минута,PARI Universe: Playoffs,PARIVISION vs Team Yandex,Тотал убийств,Больше 37.5,1.81,3500,проигрыш,-3500
-1883,2026-10-29 20:38 UTC,9067617648,15-я минута,PARI Universe: Playoffs,OG vs GamerLegion,Тотал убийств,Меньше 51.5,1.86,3500,ожидание,
+1883,2026-10-29 20:38 UTC,9067617648,15-я минута,PARI Universe: Playoffs,OG vs GamerLegion,Тотал убийств,Меньше 51.5,1.86,3500,проигрыш,-3500
+1906,2026-10-31 14:45 UTC,9070062078,15-я минута,PARI Universe: Playoffs,GamerLegion vs Team Yandex,Тотал убийств,Больше 56.5,1.85,5000,ожидание,
