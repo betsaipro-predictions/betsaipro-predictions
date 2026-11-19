@@ -1,0 +1,53 @@
+{
+  "bet_no": 2565,
+  "match_id": 9095836436,
+  "reviewed_at": 1795085834,
+  "market": "Тотал убийств",
+  "selection": "Больше 60.5",
+  "stake": 5000,
+  "odds": 1.85,
+  "previous": {
+    "result": "lose",
+    "profit": -5000,
+    "total_kills": 36,
+    "duration_sec": 1146
+  },
+  "corrected": {
+    "result": "win",
+    "profit": 4250,
+    "total_kills": 62,
+    "duration_sec": 2050
+  },
+  "balance_change": 9250,
+  "reason": "Последнее доступное состояние Hawk на 19:06 ошибочно приняли за финал. Полный итог карты 43:19, 34:10.",
+  "evidence": {
+    "url": "https://seventyfly.com/match/9095836436-parivision-vs-team-spirit-map-4/",
+    "received_at": 1795084887.8704782,
+    "html_sha256": "d14620854c636ec19df220710269e1bd1943270ec0367d82e7201a7112101af5",
+    "match_id": 9095836436,
+    "map": 4,
+    "radiant_team_id": 9824702,
+    "dire_team_id": 7119388,
+    "radiant_score": 43,
+    "dire_score": 19,
+    "total_kills": 62,
+    "duration_sec": 2050,
+    "hero_ids": [
+      21,
+      30,
+      36,
+      96,
+      106,
+      107,
+      113,
+      123,
+      129,
+      145
+    ],
+    "identity_check": "Match ID, map, both team IDs and all ten draft heroes matched.",
+    "verification": "Published complete scoreboard; 62 kills also confirmed by project owner. Not an OpenDota API result."
+  },
+  "original_bet_hash": "966523871fdfea08f1521eb63c67881d1998d89b537c5d0d6e56bbd907759aa1",
+  "correction_seq": 1194,
+  "correction_hash": "e89f0434163b40d347b030581a8c3b40b83a4913eb47ed1d0ca2c70337412ea8"
+}
